@@ -7,9 +7,6 @@
 
 しがない絵描きです。たまに細々と開発しています。  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/catppuccin-rainbow-line.gif" width="100%" />
-</p>
 
 ## About Me
 ![illust1](./doc/1.webp)
@@ -20,9 +17,6 @@
 ### 🛠️開発
 AstroやPubliiの個人向けイラストサイトテーマを開発・公開しています。絵描きさんが個人サイトを持つきっかけになれれば幸いです。
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/catppuccin-rainbow-line.gif" width="100%" />
-</p>
 
 ## 🚀 Featured Projects
 
@@ -45,7 +39,7 @@ AstroやPubliiの個人向けイラストサイトテーマを開発・公開し
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hilava999&theme=flat&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hilava999&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </p>
 
 ## 🎵 Now Playing
@@ -63,4 +57,9 @@ AstroやPubliiの個人向けイラストサイトテーマを開発・公開し
 [![Website](https://img.shields.io/badge/Website-6B46C1?style=for-the-badge&logo=homeassistant&logoColor=white)](https://pastelpark.pages.dev/)
 
 
-![Visitor Count](https://profile-counter.glitch.me/hilava999/counter.svg)
+
+<p align="right">
+  <a href="https://github.com/hilava999">
+    <img src="https://komarev.com/ghpvc/?username=hilava999&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  </a>
+</p>
