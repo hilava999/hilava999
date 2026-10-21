@@ -39,7 +39,7 @@ AstroやPubliiの個人向けイラストサイトテーマを開発・公開し
 ## 🎵 Now Playing
 <p align="center">
   <a href="https://www.last.fm/user/hilava999">
-    <img src="https://lastfm-github-profile.vercel.app/api?user=hilava999&cache=0" alt="Now Playing" />
+    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=hilava999&theme=light&count=1" alt="Now Playing" />
   </a>
 </p>
 
