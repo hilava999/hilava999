@@ -7,6 +7,10 @@
 
 しがない絵描きです。たまに細々と開発しています。  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/catppuccin-rainbow-line.gif" width="100%" />
+</p>
+
 ## About Me
 ![illust1](./doc/1.webp)
 ### 🎨イラスト制作
@@ -15,6 +19,10 @@
 
 ### 🛠️開発
 AstroやPubliiの個人向けイラストサイトテーマを開発・公開しています。絵描きさんが個人サイトを持つきっかけになれれば幸いです。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/catppuccin-rainbow-line.gif" width="100%" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -36,6 +44,10 @@ AstroやPubliiの個人向けイラストサイトテーマを開発・公開し
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilava999&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hilava999&theme=flat&no-frame=true&column=6" />
+</p>
+
 ## 🎵 Now Playing
 <p align="center">
   <a href="https://www.last.fm/user/hilava999">
@@ -49,3 +61,6 @@ AstroやPubliiの個人向けイラストサイトテーマを開発・公開し
 [![pixiv](https://img.shields.io/badge/pixiv-0096FA?style=for-the-badge&logo=pixiv&logoColor=white)](https://www.pixiv.net/users/3337344)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilava999)
 [![Website](https://img.shields.io/badge/Website-6B46C1?style=for-the-badge&logo=homeassistant&logoColor=white)](https://pastelpark.pages.dev/)
+
+
+![Visitor Count](https://profile-counter.glitch.me/hilava999/counter.svg)
