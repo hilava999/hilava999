@@ -3,13 +3,13 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![CLIP STUDIO PAINT](https://img.shields.io/badge/CLIP_STUDIO_PAINT_EX-1C1C1C?style=for-the-badge&logo=clipstudiopaint&logoColor=white)
 ![Affinity](https://img.shields.io/badge/Affinity-222326?style=for-the-badge&logo=affinity&logoColor=white)
-![header](./doc/0.webp)  
+![header](./doc/2.webp)  
 
 しがない絵描きです。たまに細々と開発しています。  
 
 
 ## About Me
-![illust1](./doc/1.webp)
+
 ### 🎨イラスト制作
 デジタルイラスト歴14年程、全体的なイラスト歴は20年程です。歴だけはあるしがない絵描きです。  
 二次創作イラスト中心に描いています。星のカービィ擬人化創作が熱いです。
@@ -57,7 +57,10 @@ AstroやPubliiの個人向けイラストサイトテーマを開発・公開し
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilava999)
 [![Website](https://img.shields.io/badge/Website-6B46C1?style=for-the-badge&logo=homeassistant&logoColor=white)](https://pastelpark.pages.dev/)
 
-
+## 🎨Featured Works
+![illust1](./doc/0.webp)
+![illust2](./doc/1.webp)
+![illust2](./doc/3.webp)
 
 <p align="right">
   <a href="https://github.com/hilava999">
