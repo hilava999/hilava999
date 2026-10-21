@@ -39,8 +39,9 @@ AstroやPubliiの個人向けイラストサイトテーマを開発・公開し
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hilava999&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilava999&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ## 🎵 Now Playing
 <p align="center">
