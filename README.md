@@ -36,6 +36,14 @@ AstroやPubliiの個人向けイラストサイトテーマを開発・公開し
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilava999&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
+## 🎵 Now Playing
+<p align="center">
+  <a href="https://www.last.fm/user/hilava999">
+    <img src="https://lastfm-github-profile.vercel.app/api?user=hilava999&cache=0" alt="Now Playing" />
+  </a>
+</p>
+
+
 ## 🔗 Links
 [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hilava_gkb)
 [![pixiv](https://img.shields.io/badge/pixiv-0096FA?style=for-the-badge&logo=pixiv&logoColor=white)](https://www.pixiv.net/users/3337344)
