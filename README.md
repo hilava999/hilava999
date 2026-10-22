@@ -55,7 +55,7 @@ AstroやPubliiの個人向けイラストサイトテーマを開発・公開し
 [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hilava_gkb)
 [![pixiv](https://img.shields.io/badge/pixiv-0096FA?style=for-the-badge&logo=pixiv&logoColor=white)](https://www.pixiv.net/users/3337344)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilava999)
-[![Website](https://img.shields.io/badge/Website-6B46C1?style=for-the-badge&logo=homeassistant&logoColor=white)](https://pastelpark.pages.dev/)
+[![Website](https://img.shields.io/badge/Website-6B46C1?style=for-the-badge&logo=homeassistant&logoColor=white)](https://pastelpark.hilavaarts.link/)
 
 ## 🎨Featured Works
 ![illust1](./doc/0.webp)
