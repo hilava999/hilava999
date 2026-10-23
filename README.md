@@ -62,6 +62,12 @@ AstroやPubliiの個人向けイラストサイトテーマを開発・公開し
 ![illust2](./doc/1.webp)
 ![illust2](./doc/3.webp)
 
+## WIP
+夢小説サイト向けテーマを開発中です！！
+![illust1](./doc/4.jpeg)
+![illust2](./doc/5.jpeg)
+![illust2](./doc/6.jpeg)
+
 <p align="right">
   <a href="https://github.com/hilava999">
     <img src="https://komarev.com/ghpvc/?username=hilava999&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
