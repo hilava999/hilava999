@@ -62,11 +62,16 @@ AstroやPubliiの個人向けイラストサイトテーマを開発・公開し
 ![illust2](./doc/1.webp)
 ![illust2](./doc/3.webp)
 
-## WIP
+## 🛠️WIP
 夢小説サイト向けテーマを開発中です！！
-![illust1](./doc/04.jpeg)
-![illust2](./doc/05.png)
-![illust2](./doc/06.jpeg)
+
+![illust1](./doc/4.jpg)
+
+![illust2](./doc/5.jpg)
+
+![illust2](./doc/6.jpg)
+
+![illust2](./doc/7.jpg)
 
 <p align="right">
   <a href="https://github.com/hilava999">
